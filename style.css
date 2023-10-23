@@ -50,7 +50,7 @@
     padding: 0 10px;
     border-radius: 5px;
     border: 1px solid #bfbfbf;
-    width: calc(100% / 3 - 5px);
+    width: 33%;
   }
   .content.disable .column{
     opacity: 0.6;
